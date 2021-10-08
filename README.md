@@ -1,4 +1,4 @@
-# i_cant_beleave_it_can
+# i_cant_believe_it_can
 
 Implementation for https://arxiv.org/abs/2110.01111
 
@@ -6,7 +6,7 @@ Implementation for https://arxiv.org/abs/2110.01111
 
 ```go
 v := []int{3, 5, 2, 8, 1}
-i_cant_beleave_it_can.Sort(v)
+i_cant_believe_it_can.Sort(v)
 ```
 
 ## Requirements
